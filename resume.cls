@@ -80,7 +80,7 @@
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={Haris Ejaz Resume},
+    pdftitle={Aqib Shah Resume},
     pdfpagemode=FullScreen,
     }
 \usepackage{fontawesome5}
